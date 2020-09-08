@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../ReactProject/todo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todo",
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#2D2F16",
+			"titleBar.activeBackground": "#40421F",
+			"titleBar.activeForeground": "#FAFAF5"
+		},
+		"peacock.color": "#0c0c06"
+	}
+}
